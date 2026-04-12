@@ -16,7 +16,7 @@ This repository contains code, data, and results for the research project based 
 ## Citation
 
 If you use this code or data, please cite:
-> A. Khan, M. S. Ibrahim, A. Wahab, N. Ahmed, and S. Khan, “Feature-Efficient and Interpretable Dyslexia Detection via Soft Voting Ensemble Learning,” IEEE Access, 2025, doi: 10.1109/ACCESS.2022.0092316.
+> A. Khan, and S. Khan, “Feature-Efficient and Interpretable Dyslexia Detection via Soft Voting Ensemble Learning,” IEEE Access, 2025, doi: 10.1109/ACCESS.2022.0092316.
 
 ## License
 
