@@ -6,6 +6,7 @@ This repository contains code, data, and results for the research project based 
 
 ## Repository Structure
 
+```text
 Dyslexia/
 ├── Notebooks/
 │   ├── Ensemble.ipynb                      # Advanced ensemble methods and model comparison
@@ -29,6 +30,7 @@ Dyslexia/
 │   ├── tsne_all_features.png
 │   └── tsne_roc_plots.png
 └── README.md
+```
 
 ## Main Notebooks
 
