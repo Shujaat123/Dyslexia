@@ -42,7 +42,7 @@ Dyslexia/
 ## Citation
 
 If you use this code or data, please cite:
-> A. Khan, and S. Khan, "Feature-Efficient and Interpretable Dyslexia Detection via Soft Voting Ensemble Learning," IEEE Access, 2025, doi: 10.1109/ACCESS.2022.0092316.
+> Khan, A. & Khan, S. (2026). Feature-Efficient and Interpretable Dyslexia Detection via Soft Voting Ensemble Learning. Journal of Undergraduate Research International, 2(3A), 70–76.
 
 ## License
 
